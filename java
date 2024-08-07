@@ -1,1 +1,4 @@
-first code initiated
+first code initia
+
+
+first trial done
